@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Shreyas Deshpande",
 	"description": "Something awesome inside",
-	"keywords": ["freeCodeCamp", "nodejs", "javascript"],
+	"keywords": ["freecodecamp", "nodejs", "javascript"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
