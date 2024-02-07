@@ -3,6 +3,7 @@
 	"author": "Shreyas Deshpande",
 	"description": "Something awesome inside",
 	"keywords": ["freecodecamp", "nodejs", "javascript"],
+	"license":"MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
